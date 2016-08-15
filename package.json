@@ -10,7 +10,7 @@
   "repository": "https://github.com/hitchhq/hermes-examples.git",
   "bugs": "https://github.com/hitchhq/hermes-examples/issues",
   "dependencies": {
-    "hermesjs": "^1.0.4",
+    "hermesjs": "^1.0.6",
     "hermesjs-mqtt": "^1.0.0",
     "hermesjs-socketio": "^1.0.0"
   }
