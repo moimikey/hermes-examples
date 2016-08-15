@@ -1,0 +1,17 @@
+{
+  "name": "hermesjs-examples",
+  "version": "0.0.1",
+  "description": "Hermes examples",
+  "author": "Francisco Méndez Vilas (fmvilas@gmail.com)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node mqtt_server"
+  },
+  "repository": "https://github.com/hitchhq/hermes-examples.git",
+  "bugs": "https://github.com/hitchhq/hermes-examples/issues",
+  "dependencies": {
+    "hermesjs": "^1.0.4",
+    "hermesjs-mqtt": "^1.0.0",
+    "hermesjs-socketio": "^1.0.0"
+  }
+}
