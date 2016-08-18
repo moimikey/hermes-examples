@@ -8,7 +8,7 @@ const hello = require('./routes/hello');
 // **********************
 const path = require('path');
 const fs = require('fs');
-const http_server = require('http').createServer(handler);
+const http_server = require('http').createServer(handler).listen(process.env.PORT || 80);
 function handler (req, res) {
   fs.readFile(path.resolve(__dirname, './index.html'),
   (err, data) => {
