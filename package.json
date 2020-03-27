@@ -12,6 +12,6 @@
   "dependencies": {
     "hermesjs": "^1.0.6",
     "hermesjs-mqtt": "^1.1.1",
-    "hermesjs-socketio": "^1.1.0"
+    "hermesjs-socketio": "^2.0.0"
   }
 }
