@@ -11,7 +11,7 @@
   "bugs": "https://github.com/hitchhq/hermes-examples/issues",
   "dependencies": {
     "hermesjs": "^1.0.6",
-    "hermesjs-mqtt": "^1.1.1",
+    "hermesjs-mqtt": "^2.1.1",
     "hermesjs-socketio": "^1.1.0"
   }
 }
